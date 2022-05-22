@@ -1,3 +1,4 @@
+// updates to come:
 //  * implement the command 'hint' - show to the user a random unguessed letter
 
 package main
